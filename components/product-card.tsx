@@ -65,7 +65,7 @@ export function ProductCard({ product, hideCategory = false }: { product: Produc
           >
             <a href={waHref} target="_blank" rel="noopener noreferrer" aria-label="Order on WhatsApp">
               <span className="flex items-center gap-2">
-                <Image src="/icons/whatsapp.png" alt="WhatsApp" width={14} height={14} />
+                <Image src="https://img.icons8.com/?size=100&id=BkugfgmBwtEI&format=png&color=000000" alt="WhatsApp" width={20} height={20} />
                 WhatsApp
               </span>
             </a>
